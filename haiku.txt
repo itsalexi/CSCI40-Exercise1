@@ -1,1 +1,2 @@
 Merge conflicts are bad
+Version Control is good
